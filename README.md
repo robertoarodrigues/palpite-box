@@ -3,6 +3,7 @@
 [![HitCount](http://hits.dwyl.com/robertorodrigues/robertoarodrigues/palpite-box.svg)](http://hits.dwyl.com/robertorodrigues/robertoarodrigues/palpite-box)
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
+Uma versão online deste projeto pode ser encontrada em: https://palpite-box.robertorodrigues.dev/.
 
 ![Preview](https://github.com/robertoarodrigues/palpite-box/blob/master/print-index.png?raw=true)
 ![Preview](https://github.com/robertoarodrigues/palpite-box/blob/master/print-pesquisa.png?raw=true)
